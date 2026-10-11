@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Comps1
 layout: minimal
 ---
 
