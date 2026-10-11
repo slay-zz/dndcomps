@@ -1,6 +1,7 @@
 ---
 title: Comps1
-layout: minimal
+layout: default
+nav_order: 2
 ---
 
 I'm  putting some text here, yes?
