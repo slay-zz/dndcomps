@@ -7,7 +7,7 @@ Hello, Knot. This is a *bare-minimum* template to create a Jekyll site that uses
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-{: .note}
+{: .note }
 This was just added here. We're just playing. It's lighter than you think.
 
 More specifically, the created site:
