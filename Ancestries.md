@@ -15,18 +15,19 @@ nav_order: 2
 	<li>Elves</li>
 	<li>Halflings</li>
 </ul>
-
-- Men
-- Dwarves
-- Elves
-- Halflings
 </details>
 </p>
 
 <p>
 <details open>
 <summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
-Dwarves, Elves, Half-Elves, Halflings, Humans
+<ul>
+	<li>Dwarves</li>
+	<li>Elves</li>
+	<li>Half-Elves</li>
+	<li>Halflings</li>
+	<li>Humans</li>
+</ul>
 </details>
 </p>
 
@@ -77,7 +78,15 @@ Holmes Basic does list ancestries, but they have no effect on character building
 <p>
 <details open>
 <summary><strong>OSRIC 3.0</strong></summary>
-Dwarf, Elf, Gnome, Half-Elf, Half-Orc, Halfling, Human 
+<ul>
+	<li>Dwarf</li>
+	<li>Elf</li>
+	<li>Gnome</li>
+	<li>Half-Elf</li>
+	<li>Half-Orc</li>
+	<li>Halfling</li>
+	<li>Human</li>
+</ul>
 </details>
 </p>
 
@@ -98,7 +107,18 @@ n/a
 <p>
 <details open>
 <summary><strong>OSE Advanced Fantasy</strong></summary>
-Drow, Duergar, Dwarf, Elf, Gnome, Half-Elf, Halfling, Half-Orc, Human, Svirfneblin
+<ul>
+	<li>Drow</li>
+	<li>Duergar</li> 
+	<li>Dwarf</li> 
+	<li>Elf</li>
+	<li>Gnome</li>
+	<li>Half-Elf</li>
+	<li>Halfling</li>
+	<li>Half-Orc</li>
+	<li>Human</li>
+	<li>Svirfneblin</li>
+</ul>
 </details>
 </p>
 
