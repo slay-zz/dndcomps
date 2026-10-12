@@ -10,3 +10,9 @@ These are the games that I hope to include.
 - **Swords & Wizardry (Complete Edition)**
 - **White Box**
 - **White Hack**
+- **Black Hack**
+
+- **Holmes Basic**
+- **Blueholme**
+
+- **AD&D (1e)**
