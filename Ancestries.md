@@ -33,13 +33,6 @@ nav_order: 3
 
 <p>
 <details open>
-<summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
-- Dwarves / Elves / Half-Elves / Halflings / Humans
-</details>
-</p>
-
-<p>
-<details open>
 <summary><strong>Whitehack</strong></summary>
 ??
 </details>
