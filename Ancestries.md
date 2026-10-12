@@ -9,14 +9,21 @@ nav_order: 2
 <p>
 <details open>
 <summary><strong>OD&D</strong></summary>
-Men, Dwarves, Elves, Halflings
+- Men
+- Dwarves
+- Elves
+- Halflings
 </details>
 </p>
 
 <p>
 <details open>
 <summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
-Dwarves, Elves, Half-Elves, Halflings, Humans
+- Dwarves
+- Elves
+- Half-Elves
+- Halflings
+- Humans
 </details>
 </p>
 
