@@ -14,3 +14,7 @@ callouts:
   note:
     title: NOTE
     color: blue
+
+
+plugins:
+  - jekyll-jtd-toc-nav
