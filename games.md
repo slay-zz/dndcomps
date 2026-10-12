@@ -5,17 +5,24 @@ nav_order: 1
 ---
 
 These are the games that I hope to include.
-<ul>
+
 - **OD&D**
 - **Swords & Wizardry (Complete Edition)**
 - **Whitehack**
 - **White Box: Fantastic Medieval Adventure Game**
 - **Black Hack**
-</ul>
-<ul>
 - **Holmes Basic**
 - **Blueholme**
-</ul>
-<ul>
 - **AD&D (1e)**
-</ul>
+- **OSRIC 3.0**
+- **B.X**
+- **OSE Classic Fantasy**
+- **OSE Advanced Fantasy**
+- **OSE 2026**
+- **Labyrinth Lord**
+- **Bree-YARC**
+- **BECMI**
+- **Dark Dungeons**
+- **Basic Fantasy**
+- **AD&D 2e**
+- **For Gold & Glory**
