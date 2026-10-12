@@ -10,17 +10,18 @@ I'm  putting some text here, yes?
 This was just added here. We're just playing. It's lighter than you think.
 
 # Classes
-
+<p>
 <details>
 <summary><strong>OD&D</strong></summary>
 Fighting Men, Magic-Users, Clerics. Later added Thieves and Assassins
 </details>
-
+</p>
+<p>
 <details open>
 <summary>Swords & Wizardry (Complete Revised)</summary>
 Assassin, Cleric, Druid, Fighter, Magic-User, Monk, Paladin, Ranger, Thief
 </details>
-
+</p>
 <details>
 <summary>Holmes Basic</summary>
 Fighting Men, Magic-users, Clerics, Thieves, Dwarves, Elves, Halflings
