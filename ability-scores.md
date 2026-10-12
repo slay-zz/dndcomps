@@ -8,7 +8,7 @@ nav_order: 2
 
 
 
-## → OD&D
+## OD&D
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -17,13 +17,17 @@ nav_order: 2
 </ul>
 
 
-## Swords & Wizardry (Complete Revised)
+<p>
+<details open>
+<summary><h2>Swords & Wizardry (Complete Revised)</h2></summary>
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
+</details>
+</p>
 
 <p>
 <details open>
