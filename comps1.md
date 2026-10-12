@@ -12,7 +12,7 @@ This was just added here. We're just playing. It's lighter than you think.
 # Classes
 
 <details>
-<summary>OD&D</summary>
+<summary><strong>OD&D</strong></summary>
 Fighting Men, Magic-Users, Clerics. Later added Thieves and Assassins
 </details>
 
@@ -27,13 +27,11 @@ Fighting Men, Magic-users, Clerics, Thieves, Dwarves, Elves, Halflings
 </details>
 
 <details>
-<summary>OD&D</summary>
-
-
+<summary>OSRIC 3.0</summary>
+Assassin, Cleric, Druid, Fighter, Illusionist, Magic-User, Monk, Paladin, Ranger, Thief 
 </details>
 
 <details>
-<summary>OD&D</summary>
-
-
+<summary>B/X</summary>
+Cleric, Dwarf, Elf, Fighter, Halfling, Magic User, Thief
 </details>
