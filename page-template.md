@@ -34,7 +34,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# White Box
+## White Box
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -42,7 +42,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Black Hack
+## Black Hack
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -50,7 +50,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Holmes Basic
+## Holmes Basic
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -58,7 +58,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Blueholme
+## Blueholme
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -66,7 +66,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# AD&D (1e)
+## AD&D (1e)
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -74,7 +74,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# OSRIC 3.0
+## OSRIC 3.0
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -82,7 +82,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# B/X
+## B/X
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -90,7 +90,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# OSE Classic Fantasy
+## OSE Classic Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -98,7 +98,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# OSE Advanced Fantasy
+## OSE Advanced Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -106,7 +106,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# OSE 2026
+## OSE 2026
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -114,7 +114,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Labyrinth Lord
+## Labyrinth Lord
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -122,7 +122,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Bree-Yarc
+## Bree-Yarc
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -130,7 +130,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# BECMI
+## BECMI
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -138,7 +138,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Dark Dungeons
+## Dark Dungeons
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -146,7 +146,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# Basic Fantasy
+## Basic Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -154,7 +154,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# AD&D 2e
+## AD&D 2e
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
@@ -162,7 +162,7 @@ nav_exclude: true
 	<li>xxx</li>
 </ul>
 
-# For Gold & Glory
+## For Gold & Glory
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
