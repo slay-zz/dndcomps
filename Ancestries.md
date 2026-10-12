@@ -9,6 +9,10 @@ nav_order: 2
 <p>
 <details open>
 <summary><strong>OD&D</strong></summary>
+* **First Item:** A brief description.
+* **Second Item:** Additional information.
+* **Third Item:** More details.
+
 - Men
 - Dwarves
 - Elves
