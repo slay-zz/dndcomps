@@ -10,7 +10,7 @@ nav_order: 2
 
 ## OD&D
 <ul>
-	<li>xxx</li>
+	<li>OD&D</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
