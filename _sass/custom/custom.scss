@@ -1,6 +1,6 @@
 :root {
   --background-color: #26252b;
-  --heading-color: #e3e9f0;
+  --heading-color: #8C755A;
   --text-color: #c9d1d9;
   --link-color: #f2c488;
   --visited-color: #26252b;
@@ -42,13 +42,13 @@ body {
 
 h1 {
   font-family: inherit;
-  color: var(--heading-color);
+  color: #85878E;
   font-weight: 600;
 }
 
 h2, h3, h4, h5, h6 {
   font-family: inherit;
-  color: #8C755A;
+  color: #e3e9f0;
   font-weight: 600;
 }
 
