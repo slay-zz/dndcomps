@@ -8,7 +8,7 @@ nav_order: 2
 # Ancestries
 <p>
 <details open>
-<summary><strong>OD&D</strong></summary>
+<summary>**OD&D**</summary>
 Fighting Men, Magic-Users, Clerics. Later added Thieves and Assassins
 </details>
 </p>
