@@ -26,11 +26,7 @@ nav_order: 2
 <p>
 <details open>
 <summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
-- Dwarves
-- Elves
-- Half-Elves
-- Halflings
-- Humans
+Dwarves, Elves, Half-Elves, Halflings, Humans
 </details>
 </p>
 
@@ -60,9 +56,6 @@ nav_order: 2
 <p>
 <details open>
 <summary><strong>Holmes Basic</strong></summary>
-n/a
-
-{: .note }
 Holmes Basic does list ancestries, but they have no effect on character building, stats, etc. They are for narrative purposes only, except at the discretion of the DM. (See pages 7-8.)
 </details>
 </p>
