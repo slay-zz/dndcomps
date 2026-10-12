@@ -32,212 +32,139 @@ nav_order: 2
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-
-<p>
-<details open>
-<summary><strong>White Box</strong></summary>
+# White Box
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Black Hack</strong></summary>
+# Black Hack
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-
-<p>
-<details open>
-<summary><strong>Holmes Basic</strong></summary>
+# Holmes Basic
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Blueholme</strong></summary>
+# Blueholme
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>AD&D (1e)</strong></summary>
+# AD&D (1e)
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>OSRIC 3.0</strong></summary>
+# OSRIC 3.0
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>B/X</strong></summary>
+# B/X
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>OSE Classic Fantasy</strong></summary>
+# OSE Classic Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>OSE Advanced Fantasy</strong></summary>
+# OSE Advanced Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>OSE 2026</strong></summary>
+# OSE 2026
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Labyrinth Lord</strong></summary>
+# Labyrinth Lord
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Bree-Yarc</strong></summary>
+# Bree-Yarc
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>BECMI</strong></summary>
+# BECMI
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Dark Dungeons</strong></summary>
+# Dark Dungeons
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Basic Fantasy</strong></summary>
+# Basic Fantasy
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-
-<p>
-<details open>
-<summary><strong>AD&D 2e</strong></summary>
+# AD&D 2e
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>For Gold & Glory</strong></summary>
+# For Gold & Glory
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
