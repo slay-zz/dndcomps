@@ -6,33 +6,24 @@ nav_order: 2
 
 # Ability Scores
 
-## Another section
 
-## Section number three
 
-<p>
-<details open>
-<summary><strong> OD&D</strong></summary>
+## OD&D
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
+
+## Swords & Wizardry (Complete Revised)
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
 <p>
 <details open>
