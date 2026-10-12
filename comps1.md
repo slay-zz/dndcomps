@@ -16,7 +16,7 @@ This was just added here. We're just playing. It's lighter than you think.
 Fighting Men, Magic-Users, Clerics. Later added Thieves and Assassins
 </details>
 
-<details>
+<details open>
 <summary>Swords & Wizardry (Complete Revised)</summary>
 Assassin, Cleric, Druid, Fighter, Magic-User, Monk, Paladin, Ranger, Thief
 </details>
