@@ -6,30 +6,6 @@
   --visited-color: #26252b;
 }
 
-@font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Regular'), url('/fonts/static/Alegreya-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Bold'), url('/fonts/static/Alegreya-Bold.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Italic'), url('/fonts/static/Alegreya-Italic.woff2') format('woff2');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
 
 body {
   font-family: "noort", serif;
@@ -106,7 +82,7 @@ img {
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
   font-size: 1.25rem; /* 20px */
-  font-family: 'Alegreya', Georgia, serif;
+  font-family: "noort", serif;
 }
 
 summary::marker {
