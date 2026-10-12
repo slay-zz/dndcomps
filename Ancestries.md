@@ -122,5 +122,62 @@ n/a
 </details>
 </p>
 
+<p>
+<details open>
+<summary><strong>OSE 2026</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>Labyrinth Lord</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>Bree-Yarc</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>BECMI</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>Dark Dungeons</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>Basic Fantasy</strong></summary>
+n/a
+</details>
+</p>
+
+
+<p>
+<details open>
+<summary><strong>AD&D 2e</strong></summary>
+n/a
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>For Gold & Glory</strong></summary>
+n/a
+</details>
+</p>
+
 {: .note }
 This was just added here. We're just playing. It's lighter than you think.
