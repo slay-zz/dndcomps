@@ -5,17 +5,17 @@ nav_order: 1
 ---
 
 These are the games that I hope to include.
-<p>
+<ul>
 - **OD&D**
 - **Swords & Wizardry (Complete Edition)**
-- **White Box: Fantastic Medieval Adventure Game**
 - **Whitehack**
+- **White Box: Fantastic Medieval Adventure Game**
 - **Black Hack**
-</p>
-<p>
+</ul>
+<ul>
 - **Holmes Basic**
 - **Blueholme**
-</p>
-<p>
+</ul>
+<ul>
 - **AD&D (1e)**
-</p>
+</ul>
