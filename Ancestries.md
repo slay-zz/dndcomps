@@ -1,7 +1,7 @@
 ---
 title: Ancestries
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 
@@ -28,6 +28,13 @@ nav_order: 2
 	<li>Halflings</li>
 	<li>Humans</li>
 </ul>
+</details>
+</p>
+
+<p>
+<details open>
+<summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
+- Dwarves / Elves / Half-Elves / Halflings / Humans
 </details>
 </p>
 
