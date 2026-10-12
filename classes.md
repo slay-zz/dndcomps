@@ -5,6 +5,9 @@ nav_order: 4
 ---
 
 # Classes
+
+<hr>
+
 <p>
 <details open>
 <summary><strong>OD&D</strong></summary>

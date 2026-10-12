@@ -6,7 +6,7 @@ nav_order: 2
 
 # Ability Scores
 
-
+<hr>
 
 ## OD&D
 <ul>
@@ -17,21 +17,15 @@ nav_order: 2
 </ul>
 
 
-<p>
-<details open>
-<summary><h2>Swords & Wizardry (Complete Revised)</h2></summary>
+## Swords & Wizardry (Complete Revised)
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Whitehack</strong></summary>
+## Whitehack
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
