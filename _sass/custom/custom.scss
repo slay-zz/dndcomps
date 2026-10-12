@@ -35,7 +35,7 @@ body {
   font-family: 'Alegreya', Georgia, serif;
   background-color: var(--background-color);
   color: var(--text-color);
-  font-size: 1.5rem;
+  font-size: 1.5rem; /* 24 px */
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -98,6 +98,6 @@ img {
 }
 
 summary::marker {
-  font-size: 20px;
+  font-size: 1rem;
   color: #f2c488;
 }
