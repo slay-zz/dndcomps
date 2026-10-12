@@ -35,7 +35,6 @@ Assassin, Cleric, Druid, Fighter, Illusionist, Magic-User, Monk, Paladin, Ranger
 Cleric, Dwarf, Elf, Fighter, Halfling, Magic User, Thief
 </details>
 </p>
-<p>
 
 {: .note }
 This was just added here. We're just playing. It's lighter than you think.
