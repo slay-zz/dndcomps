@@ -8,7 +8,7 @@ nav_order: 2
 # Ancestries
 <p>
 <details open>
-<summary><strong>OD&D</strong></summary>
+<summary><strong> OD&D</strong></summary>
 <ul>
 	<li>Men</li>
 	<li>Dwarves</li>
@@ -61,6 +61,7 @@ nav_order: 2
 <details open>
 <summary><strong>Holmes Basic</strong></summary>
 n/a
+
 {: .note }
 Holmes Basic does list ancestries, but they have no effect on character building, stats, etc. They are for narrative purposes only, except at the discretion of the DM. (See pages 7-8.)
 </details>
