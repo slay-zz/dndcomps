@@ -8,15 +8,21 @@ nav_order: 4
 
 <hr>
 
-<p>
-<details open>
-<summary><strong>OD&D</strong></summary>
-Fighting Men, Magic-Users, Clerics. Later added Thieves and Assassins
-</details>
-</p>
-<p>
-<details open>
-<summary>Swords & Wizardry (Complete Revised)</summary>
+## OD&D
+<ul>
+	<li>Fighting Men</li>
+	<li>Magic-Users</li>
+	<li>Clerics</li>
+</ul>
+	
+	<strong>Added later:</strong>
+	
+<ul>
+	<li>Thieves</li>
+	<li>Assassins</li>
+</ul>
+
+## Swords & Wizardry (Complete Revised)</summary>
 Assassin, Cleric, Druid, Fighter, Magic-User, Monk, Paladin, Ranger, Thief
 </details>
 </p>
