@@ -72,19 +72,48 @@ nav_order: 4
 </ul>
 
 ## OSE Classic Fantasy
+
+{: .raceasclass }
+Includes "race as class."
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Cleric</li>
+	<li>Dwarf</li>
+	<li>Elf</li>
+	<li>Fighter</li>
+	<li>Halfling</li>
+	<li>Magic-User</li>
+	<li>Thief</li>
 </ul>
 
 ## OSE Advanced Fantasy
+
+{: .raceasclass }
+Includes "race as class."
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Acrobat</li>
+	<li>Assassin</li>
+	<li>Barbarian</li>
+	<li>Bard</li>
+	<li>Cleric</li>
+	<li>Drow</li>
+	<li>Druid</li>
+	<li>Duergar</li>
+	<li>Dwarf</li>
+	<li>Elf</li>
+	<li>Fighter</li>
+	<li>Gnome</li>
+	<li>Half-Elf</li>
+	<li>Halfling</li>
+	<li>Half-Orc</li>
+	<li>Illusionist</li>
+	<li>Knight</li>
+	<li>Magic-User</li>
+	<li>Paladin</li>
+	<li>Ranger</li>
+	<li>Svirfneblin</li>
+	<li>Thief</li>
 </ul>
 
 ## OSE 2026
@@ -94,6 +123,8 @@ nav_order: 4
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
+
+<strong>Includes Race as Class?</strong>
 
 ## Labyrinth Lord
 <ul>
