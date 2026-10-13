@@ -9,17 +9,30 @@ nav_order: 4
 <hr>
 
 ## OD&D
+
+### Core Books
 <ul>
 	<li>Fighting Men</li>
 	<li>Magic-Users</li>
 	<li>Clerics</li>
 </ul>
 	
-<strong>Added later:</strong>
-
+### Greyhawk
 <ul>
-	<li>Thieves</li>
-	<li>Assassins</li>
+	<li>Thief</li>
+	<li>Paladin</li>
+</ul>
+
+### Blackmoor
+<ul>
+	<li>Monk</li>
+	<li>Assassin</li>
+	<li>Sage</li>
+</ul>
+
+### Eldritch Wizradry
+<ul>
+	<li>Druid</li>
 </ul>
 
 ## Swords & Wizardry (Complete Revised)
@@ -33,6 +46,30 @@ nav_order: 4
 	<li>Paladin</li>
 	<li>Ranger</li>
 	<li>Thief</li>
+</ul>
+
+## Whitehack
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
+
+## White Box
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
+
+## Black Hack
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
 </ul>
 
 ## Holmes Basic

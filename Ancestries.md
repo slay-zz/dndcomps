@@ -34,7 +34,15 @@ nav_order: 3
 <p>
 <details open>
 <summary><strong>Whitehack</strong></summary>
-??
+
+<ul>
+	<li>Humans</li>
+	<li>The Dwarf</li>
+	<li>The Elf</li>
+	<li>The Halfling</li>
+</ul>
+
+
 </details>
 </p>
 
