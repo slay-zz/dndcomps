@@ -16,9 +16,9 @@ These are the games that I hope to include.
 - **AD&D (1e)**
 - **OSRIC 3.0**
 - **B.X**
-- **OSE Classic Fantasy**
-- **OSE Advanced Fantasy**
-- **OSE 2026**
+- **Old School Essentials (OSE) Classic Fantasy**
+- **Old School Essentials (OSE) Advanced Fantasy**
+- **Old School Essentials (OSE) 2026**
 - **Labyrinth Lord**
 - **Bree-YARC**
 - **BECMI**
