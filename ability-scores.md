@@ -10,7 +10,7 @@ nav_order: 2
 
 <details markdown="block">
   <summary>
-   <span class="tabocon"><strong>Table of contents</strong></span>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
   </summary>
 
 - TOC
