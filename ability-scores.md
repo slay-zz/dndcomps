@@ -9,7 +9,7 @@ nav_order: 2
 <hr>
 
 <details markdown="block">
-  <summary>
+  <summary class="tabocon">
     Table of contents
   </summary>
 
