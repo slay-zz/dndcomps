@@ -17,6 +17,3 @@ callouts:
   raceasclass:
     title: Please Note
     color: yellow
-
-plugins:
-  - jekyll-jtd-toc-nav
