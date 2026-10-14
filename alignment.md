@@ -79,18 +79,18 @@ nav_order: 3
 
 ## OSRIC 3.0
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Law, Neutrality, Chaos</li>
+	<li>Good, Evil</li>
 </ul>
 
 ## B/X
+
+<div class="r-a-c">3 Point Alignment</div>
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>law</li>
+	<li>chaos</li>
+	<li>neutrality</li>
 </ul>
 
 ## OSE Classic Fantasy
@@ -102,11 +102,13 @@ nav_order: 3
 </ul>
 
 ## OSE Advanced Fantasy
+
+<div class="r-a-c">3 Point Alignment</div>
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Lawful</li>
+	<li>Neutral</li>
+	<li>Chaotic</li>
 </ul>
 
 ## OSE 2026
