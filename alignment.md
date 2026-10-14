@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 ---
 
-# Ability Scores
+# Alignment
 
 <hr>
 
@@ -19,10 +19,9 @@ nav_order: 3
 
 ## Swords & Wizardry (Complete Revised)
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Law</li>
+	<li>Neutrality</li>
+	<li>Chaos</li>
 </ul>
 
 ## Whitehack
@@ -50,19 +49,24 @@ nav_order: 3
 </ul>
 
 ## Holmes Basic
+
+<div class="r-a-c">5 Point Alignment</div>
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Good ↔ Evil</li>
+	<li>Law ↔ Chaos</li>
+	<li>Neutral</li>
 </ul>
+
+"Characters maybe be lawful (good or evil), neutral, or chaotic (good or evil)."
 
 ## Blueholme
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Lawful Good</li>
+	<li>Chaotic Good</li>
+	<li>Neutral</li>
+	<li>Lawful Evil</li>
+	<li>Chaotic Evil</li>
 </ul>
 
 ## AD&D (1e)
