@@ -1,12 +1,21 @@
 ---
 title: Alignment
 layout: default
-nav_order: 3
+nav_order: 
 ---
 
 # Alignment
 
 <hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 <ul>

@@ -1,12 +1,21 @@
 ---
 title: Classes
 layout: default
-nav_order: 6
+nav_order: 
 ---
 
 # Classes
 
 <hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 
@@ -155,14 +164,15 @@ nav_order: 6
 </ul>
 
 ## OSE 2026
+
+<div class="r-a-c">Includes "races as classes?"</div>
+
 <ul>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-
-<strong>Includes Race as Class?</strong>
 
 ## Labyrinth Lord
 <ul>
@@ -206,7 +216,7 @@ nav_order: 6
 
 ## AD&D 2e
 
-### Warrior
+<div class="kind">Warrior</div>
 
 <ul>
 	<li>Fighter</li>
@@ -214,21 +224,21 @@ nav_order: 6
 	<li>Ranger</li>
 </ul>
 
-### Wizard
+<div class="kind">Wizard</div>
 
 <ul>
 	<li>Mage</li>
 	<li>Illusionist</li>
 </ul>
 
-### Priest
+<div class="kind">Priest</div>
 
 <ul>
 	<li>Cleric</li>
 	<li>Druid</li>
 </ul>
 
-### Rogue
+<div class="kind">Rogue</div>
 
 <ul>
 	<li>Thief</li>

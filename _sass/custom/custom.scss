@@ -53,10 +53,18 @@ a {
 
 .r-a-c, .attr {
   color: #BF9D71;
+    font-weight: 600;
+  font-size: 1.125rem !important;
 }
 
 .tabocon {
   color: #C0CAD8;
+}
+
+.kind {
+  color: #BF9D71 !important;
+  font-weight: 600;
+  font-size: 1.125rem !important;
 }
 
 table {
@@ -101,8 +109,10 @@ img {
 .side-bar .nav-list, 
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
-  font-size: 1.25rem; /* 20px */
+  font-size: 1.15rem; /* 20px */
   font-family: "noort", serif;
+  min-height: 1.77rem !important;
+  line-height: 1.3rem !important;
 }
 
 summary::marker {

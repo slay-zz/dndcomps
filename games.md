@@ -1,7 +1,7 @@
 ---
 title: GAMES
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 These are the games that I hope to include.

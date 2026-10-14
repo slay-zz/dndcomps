@@ -1,12 +1,21 @@
 ---
 title: Experience Bonus
 layout: default
-nav_order: 8
+nav_order: 
 ---
 
 # Experience Bonus
 
 <hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 <ul>

@@ -1,11 +1,21 @@
 ---
 title: Ancestries
 layout: default
-nav_order: 4
+nav_order: 
 ---
 
-
 # Ancestries
+
+<hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 

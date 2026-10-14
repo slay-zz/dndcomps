@@ -1,12 +1,21 @@
 ---
 title: Prime Requisite
 layout: default
-nav_order: 10
+nav_order:
 ---
 
 # Prime Requisite / Ability Score Adjustments
 
 <hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 <ul>

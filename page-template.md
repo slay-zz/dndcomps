@@ -1,13 +1,22 @@
 ---
 title: TITLE
 layout: default
-nav_order: X
-nav_exclude: true
+nav_order:
+nav_exclude: true # delete this
 ---
 
-# Ability Scores
+# TITLE HERE
 
 <hr>
+
+<details markdown="block">
+  <summary>
+   <span class="tabocon"><strong>TABLE of CONTENTS</strong></span>
+  </summary>
+
+- TOC
+{:toc}
+</details>
 
 ## OD&D
 <ul>
