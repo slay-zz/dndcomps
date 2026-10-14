@@ -98,6 +98,9 @@ nav_order: 4
 </ul>
 
 ## B/X
+
+<div class="r-a-c">Includes "races as classes."</div>
+
 <ul>
 	<li>Cleric</li>
 	<li>Dwarf</li>
@@ -110,7 +113,7 @@ nav_order: 4
 
 ## OSE Classic Fantasy
 
-<div class="r-a-c">Includes "race as class."</div>
+<div class="r-a-c">Includes "races as classes."</div>
 
 <ul>
 	<li>Cleric</li>
@@ -124,7 +127,7 @@ nav_order: 4
 
 ## OSE Advanced Fantasy
 
-<div class="r-a-c">Includes "race as class."</div>
+<div class="r-a-c">Includes "races as classes."</div>
 
 <ul>
 	<li>Acrobat</li>
@@ -202,11 +205,34 @@ nav_order: 4
 </ul>
 
 ## AD&D 2e
+
+### Warrior
+
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Fighter</li>
+	<li>Paladin</li>
+	<li>Ranger</li>
+</ul>
+
+### Wizard
+
+<ul>
+	<li>Mage</li>
+	<li>Illusionist</li>
+</ul>
+
+### Priest
+
+<ul>
+	<li>Cleric</li>
+	<li>Druid</li>
+</ul>
+
+### Rogue
+
+<ul>
+	<li>Thief</li>
+	<li>Bard</li>
 </ul>
 
 ## For Gold & Glory
@@ -216,5 +242,3 @@ nav_order: 4
 	<li>xxx</li>
 	<li>xxx</li>
 </ul>
-{: .note }
-This was just added here. We're just playing. It's lighter than you think.

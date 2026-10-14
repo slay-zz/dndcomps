@@ -6,21 +6,18 @@ nav_order: 3
 
 
 # Ancestries
-<p>
-<details open>
-<summary><strong> OD&D</strong></summary>
+
+## OD&D
+
 <ul>
 	<li>Men</li>
 	<li>Dwarves</li>
 	<li>Elves</li>
 	<li>Halflings</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Swords & Wizardry (Complete Revised)</strong></summary>
+## Swords & Wizardry (Complete Revised)
+
 <ul>
 	<li>Dwarves</li>
 	<li>Elves</li>
@@ -28,12 +25,8 @@ nav_order: 3
 	<li>Halflings</li>
 	<li>Humans</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>Whitehack</strong></summary>
+## Whitehack
 
 <ul>
 	<li>Humans</li>
@@ -42,50 +35,43 @@ nav_order: 3
 	<li>The Halfling</li>
 </ul>
 
+## White Box
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-</details>
-</p>
+## Black Hack
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
+## Holmes Basic
 
-<p>
-<details open>
-<summary><strong>White Box</strong></summary>
-?
-</details>
-</p>
+Holmes Basic does list ancestries (races,) but they have no effect on character building, stats, etc. They are for narrative purposes only, except at the discretion of the DM. (See pages 7-8.)
 
-<p>
-<details open>
-<summary><strong>Black Hack</strong></summary>
-??
-</details>
-</p>
+## Blueholme
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
+## AD&D (1e)
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>Holmes Basic</strong></summary>
-Holmes Basic does list ancestries, but they have no effect on character building, stats, etc. They are for narrative purposes only, except at the discretion of the DM. (See pages 7-8.)
-</details>
-</p>
-
-<p>
-<details open>
-<summary><strong>Blueholme</strong></summary>
-??
-</details>
-</p>
-
-<p>
-<details open>
-<summary><strong>AD&D (1e)</strong></summary>
-??
-</details>
-</p>
-
-<p>
-<details open>
-<summary><strong>OSRIC 3.0</strong></summary>
+## OSRIC 3.0
 <ul>
 	<li>Dwarf</li>
 	<li>Elf</li>
@@ -95,26 +81,14 @@ Holmes Basic does list ancestries, but they have no effect on character building
 	<li>Halfling</li>
 	<li>Human</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>B/X</strong></summary>
-n/a
-</details>
-</p>
+## B/X
+"Some players may wish to have demi-human characters (elves, dwarves, or halflings). Each type of demi-human is a class in itself."
 
-<p>
-<details open>
-<summary><strong>OSE Classic Fantasy</strong></summary>
-n/a
-</details>
-</p>
+## OSE Classic Fantasy
+"The chosen class determines your character’s race... unless a demihuman class is selected, the character is assumed to be human."
 
-<p>
-<details open>
-<summary><strong>OSE Advanced Fantasy</strong></summary>
+## OSE Advanced Fantasy
 <ul>
 	<li>Drow</li>
 	<li>Duergar</li> 
@@ -127,65 +101,70 @@ n/a
 	<li>Human</li>
 	<li>Svirfneblin</li>
 </ul>
-</details>
-</p>
 
-<p>
-<details open>
-<summary><strong>OSE 2026</strong></summary>
-n/a
-</details>
-</p>
+## OSE 2026
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>Labyrinth Lord</strong></summary>
-n/a
-</details>
-</p>
+## Labyrinth Lord
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>Bree-Yarc</strong></summary>
-n/a
-</details>
-</p>
+## Bree-Yarc
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>BECMI</strong></summary>
-n/a
-</details>
-</p>
+## BECMI
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>Dark Dungeons</strong></summary>
-n/a
-</details>
-</p>
+## Dark Dungeons
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>Basic Fantasy</strong></summary>
-n/a
-</details>
-</p>
+## Basic Fantasy
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
+## AD&D 2e
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
-<p>
-<details open>
-<summary><strong>AD&D 2e</strong></summary>
-n/a
-</details>
-</p>
-
-<p>
-<details open>
-<summary><strong>For Gold & Glory</strong></summary>
-n/a
-</details>
-</p>
+## For Gold & Glory
+<ul>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+	<li>xxx</li>
+</ul>
 
 {: .note }
 This was just added here. We're just playing. It's lighter than you think.

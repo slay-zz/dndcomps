@@ -19,7 +19,6 @@ nav_order: 2
 
 </ul>
 
-
 ## Swords & Wizardry (Complete Revised)
 <ul>
 	<li>STR: to-hit modifier, damage modifier, open doors, carry more.</li>
@@ -62,12 +61,12 @@ nav_order: 2
 
 ## Holmes Basic
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>STR = be a fighter!</li>
+	<li>INT = 10+ add languages</li>
+	<li>WIS = good for being a cleric</li>
+	<li>CON = HP per HD, good for dwarves + halflings</li>
+	<li>DEX = act sooner, bonus (+1 /-1) to missile attacks, good for thieves, halflings</li>
+	<li>CHA = (includes "sex appeal,") # of hirelings & their loyalty</li>
 </ul>
 
 ## Blueholme
@@ -92,22 +91,22 @@ nav_order: 2
 
 ## OSRIC 3.0
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>STR: to hit, damage, encumbrance, major/minor test (includes decimals above 18)</li>
+	<li>DEX: surprise, to hit (missile,) initiative (missile,) AC, Agility saving throw</li>
+	<li>CON: HP per HD, resurrection success, system shock</li>
+	<li>INT: additional languages, 18+ immune to minor illusions</li>
+	<li>WIS: mental saving throw modifier</li>
+	<li>CHA: sidekick limit, loyalty modifier, reaction modifier</li>
 </ul>
 
 ## B/X
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>STR: to hit (melee,) damage (melee,) opening doors</li>
+	<li>INT: languages, literacy</li>
+	<li>WIS: magic-based saving throws</li>
+	<li>DEX: to hit (missile,) armor class adj., initiative adj. (optional)</li>
+	<li>CON: HP per HD</li>
+	<li>CHA: reactions, # and morale of retainers</li>
 </ul>
 
 ## OSE Classic Fantasy
@@ -122,12 +121,12 @@ nav_order: 2
 
 ## OSE Advanced Fantasy
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>STR: melee attack and damage, opening doors</li>
+	<li>INT: languages, literacy</li>
+	<li>WIS: magic saves</li>
+	<li>DEX: AC mod, Missile attacks, Initiative (with optional rule)</li>
+	<li>CON: HP modifier</li>
+	<li>CHA: NPC reactions, # of retainers, loyalty, chance of returning from death (if using optional rules)</li>
 </ul>
 
 ## OSE 2026
