@@ -27,10 +27,12 @@ nav_order: 2
 
 ## Whitehack
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>STR: Fighters use STR to modify “to-hit” and damage in melee.</li>
+	<li>INT: Add languages, Magic-users use INT to improve “spell effectiveness.”</li>
+	<li>WIS: 15+ gets a 5% bonus to XP. Clerics use WIS to improve “spell effectiveness.”</li>
+	<li>CON: High CON gives +1 to each Hit Die; low gives –1 to each Hit Die.</li>
+	<li>DEX: Bonus (+1 /-1) to missile attacks. Affects AC.</li>
+	<li>CHA: 15+ receives a 5% bonus to XP. CHA mods # of hirelings & their loyalty</li>
 </ul>
 
 ## White Box
