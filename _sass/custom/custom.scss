@@ -1,5 +1,5 @@
 :root {
-  --background-color: #332F31;
+  --background-color: #2D2A2E;
   --heading-color: #f2c488;
   --text-color: #c9d1d9;
   --link-color: #8C755A;
@@ -16,6 +16,10 @@ font-style: normal;
   font-size: 1.5rem; /* 24 px */
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+.side-bar, .main-header {
+  background-color: #2D2A2E !important;
 }
 
 h1 {
