@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-# Ability Scores
+# Prime Requisite / Ability Score Adjustments
 
 <hr>
 
@@ -18,12 +18,8 @@ nav_order: 7
 
 
 ## Swords & Wizardry (Complete Revised)
-<ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-</ul>
+
+<div class="r-a-c">n/a</div>
 
 ## Whitehack
 <ul>
@@ -51,18 +47,15 @@ nav_order: 7
 
 ## Holmes Basic
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Can raise prime requisite by lowering other abilities.</li>
+	<li>Varies in cost for the different abilities.</li>
+	<li>Also varies by class.</li>
+	<li>"Constitution and charisma cannot be altered, and dexterity cannot be reduced."</li>
 </ul>
 
 ## Blueholme
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>Varies in cost for the different abilities.</li>
 </ul>
 
 ## AD&D (1e)
@@ -83,18 +76,16 @@ nav_order: 7
 
 ## B/X
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>raise P.R. 1 by lowering another ability by 2</li>
+	<li>only STR, INT, or WIS may be lowered</li>
+	<li>some classes have other restrictions</li>
 </ul>
 
 ## OSE Classic Fantasy
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>raise P.R. 1 by lowering another ability by 2</li>
+	<li>only STR, INT, or WIS may be lowered</li>
+	<li>some classes have other restrictions</li>
 </ul>
 
 ## OSE Advanced Fantasy
