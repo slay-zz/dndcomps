@@ -1,7 +1,7 @@
 ---
 title: Experience Bonus
 layout: default
-nav_order: 5
+nav_order: 8
 ---
 
 # Experience Bonus
