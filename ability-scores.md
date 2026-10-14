@@ -9,8 +9,8 @@ nav_order: 2
 <hr>
 
 <details markdown="block">
-  <summary class="tabocon">
-    Table of contents
+  <summary>
+   <div class="tabocon"> Table of contents </div>
   </summary>
 
 - TOC
