@@ -58,10 +58,10 @@ nav_order: 4
 
 ## White Box
 <ul>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
-	<li>xxx</li>
+	<li>The Cleric</li>
+	<li>The Fighter</li>
+	<li>The Magic-User</li>
+	<li>The Thief</li>
 </ul>
 
 ## Black Hack
@@ -110,8 +110,7 @@ nav_order: 4
 
 ## OSE Classic Fantasy
 
-{: .raceasclass }
-Includes "race as class."
+<div class="r-a-c">Includes "race as class."</div>
 
 <ul>
 	<li>Cleric</li>
@@ -125,8 +124,7 @@ Includes "race as class."
 
 ## OSE Advanced Fantasy
 
-{: .raceasclass }
-Includes "race as class."
+<div class="r-a-c">Includes "race as class."</div>
 
 <ul>
 	<li>Acrobat</li>
